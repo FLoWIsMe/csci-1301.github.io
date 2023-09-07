@@ -70,7 +70,14 @@ The instructors and UCAs should be your first point of contact for any questions
 <!--
 For this semester, your UCAs are:
 -->
-
+Daelyn Doughty:
+~ 
+    - <daedoughty@augusta.edu>
+    - Responsible for Section C's lab
+    - Best way to reach me is via [email](mailto:daedoughty@augusta.edu)
+    - Alternatively, you can reach me on [discord](https://discordapp.com/users/flowisme) or on Teams.
+    - Office hours will be held on discord and teams and they are 2:30-4PM Mondays (Online) 1:15-2:30PM Tuesdays and Thursdays (Online) 11AM-1PM Fridays (SCCS Tutoring Center UH 129)
+    - I am a senior majoring in computer science. You can find me skating around campus or drinking protein.
 <!--
 
 Please, copy the following template, paste it outside this comment (that is, after the ">" character below, and fill it with relevant information.
